@@ -1,4 +1,3 @@
-import './App.css'
 import Hero from "./components/hero";
 import Speaker from "./components/speaker";
 import Schedule from "./components/schedule";
